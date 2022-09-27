@@ -1,0 +1,72 @@
+/* Personal Computer */
+@media (min-width: 64em) {
+    .bars-button {
+        display: none;
+    }
+}
+/* Tablet */
+@media ((min-width: 46.25em) and (max-width: 63.9375em)) {
+    .bars-button {
+        display: none;
+    }
+}
+/* Mobile */
+@media (max-width: 46.1875em) {
+    .m-full-width {
+        width: 100%;
+    }
+
+    .m-margin-top-8 {
+        margin-top: 8px;
+    }
+
+    #nav-bar > li {
+        display: block;
+    }
+
+    #nav-bar {
+        display: none;
+    }
+
+    .bars-button {
+        float: left;
+        color: white;
+    }
+
+    .sub-nav-bar {
+        width: 100%;
+    }
+
+    #nav-bar li:hover .sub-nav-bar {
+        background-color: black;
+    }
+
+    #nav-bar .sub-nav-bar a {
+        color: white;
+        padding-left: 40px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+    }
+
+    #slider .slider-text h3, #slider .slider-text p {
+        display: none;
+    }
+
+    .image-section {
+        float: unset;
+        width: 100%;
+    }
+
+    .contact-mobile {
+        float: unset;
+        width: 100%;
+    }
+
+    .contact-infor {
+        padding-bottom: 32px;
+    }
+
+    .contact-input {
+        padding: 0;
+    }
+}

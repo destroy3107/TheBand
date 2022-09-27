@@ -1,0 +1,23 @@
+Website mẫu: "https://www.w3schools.com/w3css/tryw3css_templates_band.htm"                                      			|
+1. Phân tích cấu trúc trang web                                                                                 			|
+2. Xây dựng cấu trúc cơ bản														|	
+3. Xây dựng từng phần trong cấu trúc													|
+4. Hoàn thiện và kiểm tra														|
+========================================================================================================================================|
+PHÂN TÍCH TRANG WEB!															|
+=> Các thành phần cơ bản của 1 trang web?												|
+* header: tiêu đề															|
+* navigate - navigation bar: điều hướng - thanh điều hướng => các thành phần bấm vào sẽ có một cái gì đó xảy ra.			|
+* breadcrumb - breadcrumb navigation: dẫn đường - đường dẫn breadcrumb => thành phần cho vị trí hiện tại của người dùng trên trang web. |
+* sidebar: => thanh ở bên trái hoặc phải của trang web.											|
+* slider: => phần trình chiếu nội dung, thông tin... của trang web.									|
+* footer: => phần chân trang web.													|
+* content: nội dung => phần nội dung ở trong trang web.											|
+* banner: ảnh ở trong trang web => thành phần ảnh quảng cáo.										|
+========================================================================================================================================|
+PHÂN TÍCH TRANG WEB "THE BAND"                                                                                 				|
+=> Format: one page!                                                                                 					|
+=> Target: introduce, story, advertise, contact...                                                                                 	|
+========================================================================================================================================|
+Build basic structure => Work in Microsoft Visual Studio Code!                                                                          |
+========================================================================================================================================|
